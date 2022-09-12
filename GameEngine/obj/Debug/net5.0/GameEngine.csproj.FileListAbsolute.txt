@@ -1,0 +1,11 @@
+C:\Csharp\Game\GameEngine\bin\Debug\net5.0\GameEngine.deps.json
+C:\Csharp\Game\GameEngine\bin\Debug\net5.0\GameEngine.dll
+C:\Csharp\Game\GameEngine\bin\Debug\net5.0\ref\GameEngine.dll
+C:\Csharp\Game\GameEngine\bin\Debug\net5.0\GameEngine.pdb
+C:\Csharp\Game\GameEngine\obj\Debug\net5.0\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Game\GameEngine\obj\Debug\net5.0\GameEngine.AssemblyInfoInputs.cache
+C:\Csharp\Game\GameEngine\obj\Debug\net5.0\GameEngine.AssemblyInfo.cs
+C:\Csharp\Game\GameEngine\obj\Debug\net5.0\GameEngine.csproj.CoreCompileInputs.cache
+C:\Csharp\Game\GameEngine\obj\Debug\net5.0\GameEngine.dll
+C:\Csharp\Game\GameEngine\obj\Debug\net5.0\ref\GameEngine.dll
+C:\Csharp\Game\GameEngine\obj\Debug\net5.0\GameEngine.pdb
